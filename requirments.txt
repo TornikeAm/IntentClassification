@@ -1,0 +1,9 @@
+torch
+nlpaug
+transformers
+pandas
+tqdm==4.62.0
+numpy==1.21.2
+json
+
+
