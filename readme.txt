@@ -1,4 +1,3 @@
-ტერმინალში გაუშვით test.py 
+Run Test.py from terminal 
 
-როცა წვრთნას დაასრულებს ინპუთში შეიყვანეთ წინადადებები, მოდელი დააბრუნებს კლასს და შესაბამისს რესპონსს.
-
+After Training is done. input sentece and model will return its class and response.
